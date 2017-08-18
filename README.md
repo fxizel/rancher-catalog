@@ -1,6 +1,6 @@
-# Rancher FxIzel Catalog
+# Rancher Catalog
 
-This catalog provides templates created by FxIzel
+This catalog provides templates created by Brait Loic
 
 # License
 MIT License
